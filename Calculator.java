@@ -6,7 +6,7 @@ public class Calculator {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-
+        System.out.println("Welcome to My Java Calculator!");
         System.out.println("===== MY JAVA CALCULATOR =====");
 
         System.out.print("Enter first number: ");
